@@ -1,1 +1,14 @@
+#Data visualization libraries-------1)Matplotlib 2) Pandas 3)Seaborn 4) ggplot 5) Plotly
 
+#Matplotlib
+Matplotlib Graphs 
+1. Linear Plot
+2. Scatter Plot
+3. Bar Plot
+4.Stem Plot
+5. Step polt
+6.Hist Plot
+7.Box Plot
+8.Pie Plot
+9.Fill_Between Plot
+we can two types of plotting by Matplotlib---- 2D and 3D
